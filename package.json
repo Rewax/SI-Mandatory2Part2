@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "si-mandatory-ii-p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasP-92/si-mandatory-II-p2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreasP-92/si-mandatory-II-p2/issues"
+  },
+  "homepage": "https://github.com/AndreasP-92/si-mandatory-II-p2#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "mongoose": "^7.2.1"
+  }
+}
